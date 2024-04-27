@@ -1,0 +1,5 @@
+Books - 30
+Skateboard - 10
+Apples - 3
+Oranges - 10
+Peaches - 5
